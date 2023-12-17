@@ -18,7 +18,7 @@ let screenPrompt = Number(prompt(mesaj));
 
 switch (screenPrompt) {
   case 1:
-    turkceDogru = Number(prompt('Türkçe doğru sayınızı giriniz'))
+    turkceDogru = Number(prompt('Türkçe doğru sayınızı giriniz.'))
     turkceYanlis = Number(prompt('Türkçe yanlış sayınızı giriniz'))
 
     matematikDogru = Number(prompt('Matematik doğru sayınızı giriniz'))
