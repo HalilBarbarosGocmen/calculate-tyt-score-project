@@ -22,13 +22,13 @@ switch (screenPrompt) {
     turkceYanlis = Number(prompt('Türkçe yanlış sayınızı giriniz.'))
 
     matematikDogru = Number(prompt('Matematik doğru sayınızı giriniz.'))
-    matematikYanlis = Number(prompt('Matematik yanlış sayınızı giriniz'))
+    matematikYanlis = Number(prompt('Matematik yanlış sayınızı giriniz.'))
 
-    sosyalDogru = Number(prompt('Sosyal Bilgiler doğru sayınızı giriniz'))
-    sosyalYanlis = Number(prompt('Sosyal Bilgiler yanlış sayınızı giriniz'))
+    sosyalDogru = Number(prompt('Sosyal Bilgiler doğru sayınızı giriniz.'))
+    sosyalYanlis = Number(prompt('Sosyal Bilgiler yanlış sayınızı giriniz.'))
 
-    fenDogru = Number(prompt('Fen Bilgisi doğru sayınızı giriniz'))
-    fenYanlis = Number(prompt('Fen Bilgisi yanlış sayınızı giriniz'))
+    fenDogru = Number(prompt('Fen Bilgisi doğru sayınızı giriniz.'))
+    fenYanlis = Number(prompt('Fen Bilgisi yanlış sayınızı giriniz.'))
 
     okulPuan = Number(prompt('0 ile 60 arasında olan okul puanınızı giriniz.'))
   
