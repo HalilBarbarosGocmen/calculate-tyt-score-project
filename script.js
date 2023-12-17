@@ -21,7 +21,7 @@ switch (screenPrompt) {
     turkceDogru = Number(prompt('Türkçe doğru sayınızı giriniz.'))
     turkceYanlis = Number(prompt('Türkçe yanlış sayınızı giriniz.'))
 
-    matematikDogru = Number(prompt('Matematik doğru sayınızı giriniz'))
+    matematikDogru = Number(prompt('Matematik doğru sayınızı giriniz.'))
     matematikYanlis = Number(prompt('Matematik yanlış sayınızı giriniz'))
 
     sosyalDogru = Number(prompt('Sosyal Bilgiler doğru sayınızı giriniz'))
